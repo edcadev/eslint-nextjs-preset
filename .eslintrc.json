@@ -22,6 +22,7 @@
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
     "react/prop-types": "off", // Desactive if required
     "react/jsx-props-no-spreading": "off", // Desactive if required
+    "jsx-a11y/anchor-is-valid": "off",
     "prettier/prettier": [
       "error",
       {
